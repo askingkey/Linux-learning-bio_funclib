@@ -1,7 +1,6 @@
 revCmpDNAseq filter=lfs diff=lfs merge=lfs -text
 statBioFile filter=lfs diff=lfs merge=lfs -text
 DNA2RNA filter=lfs diff=lfs merge=lfs -text
-README.md filter=lfs diff=lfs merge=lfs -text
 bio_funclib.sh filter=lfs diff=lfs merge=lfs -text
 data filter=lfs diff=lfs merge=lfs -text
 fq2fa filter=lfs diff=lfs merge=lfs -text
